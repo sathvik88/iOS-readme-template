@@ -20,6 +20,7 @@
 
 <p align="row">
 <img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-01-25 at 23 39 33](https://user-images.githubusercontent.com/55303890/216787446-47ab7be5-a70f-4cdd-add3-dd02270ca507.png)
 <img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
 </p>
 
